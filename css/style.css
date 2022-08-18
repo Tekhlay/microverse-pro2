@@ -1,0 +1,29 @@
+#main{
+    background-color: #eee;
+    margin: 20px 0px;
+}
+#title{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#img-div{
+    display: inline-block;
+    background-color: white;
+    padding: 0px 100px;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+#image{
+    display: block;
+    max-width: 100%;  
+    
+    
+}
+#tribute-info{
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
